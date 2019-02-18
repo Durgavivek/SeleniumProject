@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/boot/plexus-classworlds-2.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/cdi-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/guava-25.1-android.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/guice-4.2.1-no_aop.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/jansi-1.17.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/maven-artifact-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/maven-builder-support-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/maven-compat-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/apache-maven-3.6.0/lib/maven-core-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/poi-4.0.1/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/client-combined-3.14.0.jar" sourcepath="C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/selenium-htmlunit-driver-2.51.0.jar"/>
+	<classpathentry kind="lib" path="D:/VIVEK TESTING FILES DONT TOUCH/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

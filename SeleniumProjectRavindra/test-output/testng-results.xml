@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13705" started-at="2018-12-25T06:31:23Z" finished-at="2018-12-25T06:31:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13705" started-at="2018-12-25T06:31:23Z" finished-at="2018-12-25T06:31:37Z">
+      <class name="com.sel.tests.LoginTest">
+        <test-method status="PASS" signature="Reportsetup()[pri:0, instance:com.sel.tests.LoginTest@42d80b78]" name="Reportsetup" is-config="true" duration-ms="281" started-at="2018-12-25T06:31:23Z" finished-at="2018-12-25T06:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reportsetup -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.sel.tests.LoginTest@42d80b78]" name="launchApp" is-config="true" duration-ms="8357" started-at="2018-12-25T06:31:24Z" finished-at="2018-12-25T06:31:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="loginWithValidCredentials()[pri:0, instance:com.sel.tests.LoginTest@42d80b78]" name="loginWithValidCredentials" duration-ms="3890" started-at="2018-12-25T06:31:32Z" finished-at="2018-12-25T06:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.sel.tests.LoginTest@42d80b78]" name="getReport" is-config="true" duration-ms="360" started-at="2018-12-25T06:31:36Z" finished-at="2018-12-25T06:31:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithValidCredentials status=SUCCESS method=LoginTest.loginWithValidCredentials()[pri:0, instance:com.sel.tests.LoginTest@42d80b78] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.sel.tests.LoginTest@42d80b78]" name="endTest" is-config="true" duration-ms="756" started-at="2018-12-25T06:31:36Z" finished-at="2018-12-25T06:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.sel.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
