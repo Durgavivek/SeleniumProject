@@ -55,7 +55,9 @@ public class LoginTest extends CommonUtilities {
 	@AfterClass
 	public void closeBrowser()
 	{	
+		System.out.println("v");
 		driver.quit();
+		
 	}
 
 	
